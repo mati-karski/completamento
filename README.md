@@ -1,7 +1,5 @@
 # Generatore di quesiti Cloze (a completamento) da PDF tramite API OpenAI
 
-# Generatore Cloze da PDF
-
 Questa applicazione genera automaticamente **quesiti a completamento (Cloze)** a partire da PDF di slide o appunti, sfruttando modelli LLM (come OpenAI o OpenRouter) tramite API.  
 
 L’interfaccia è realizzata con Streamlit e permette agli insegnanti o formatori di creare in pochi clic batterie di esercizi didattici di alta qualità.
