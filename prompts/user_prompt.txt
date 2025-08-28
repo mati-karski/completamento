@@ -1,0 +1,6 @@
+Scansiona tutte le slide fornite. Per ciascuna slide genera domande cloze, una sola lacuna per riga, soluzione tra underscore.
+Obiettivo: almeno {numero_quesiti} righe totali. Evita duplicati e copri definizioni e concetti vari.
+---
+Testo:
+{slides_text}
+---
